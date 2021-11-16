@@ -12,7 +12,7 @@ Dream scenario: take my laptop + portable speaker and live code in the wild.
 
 2021
 - start using Emacs for coding with SuperCollider, although i wonder why
-- create nodeproxy wrapper class makeing Tidal syntax possible in SClang
+- create nodeproxy wrapper class making Tidal syntax possible in SClang
 - create p5.js visuals driven by SuperCollider behind semi-transparent editor in which i am live coding
 - :-)
 
