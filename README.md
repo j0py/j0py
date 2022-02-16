@@ -15,6 +15,10 @@ Dream scenario: take my laptop + portable speaker and live code in the wild.
 - create visuals to show during live coding
 - create sounds
 
+2022
+- the Tidal thing is now called "Pmini", an eventpattern generator with a compact syntax lightly derived from Tidal "mini notation"
+
+
 <!---
 j0py/j0py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
